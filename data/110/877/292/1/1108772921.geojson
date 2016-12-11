@@ -9,7 +9,7 @@
     "geom:bbox":"-75.41834,40.10589,-74.9988,40.34018",
     "geom:latitude":40.219849,
     "geom:longitude":-75.193884,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":315785397.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 12",
     "uscensus:sldust":"012",
     "uscensus:statefp":"42",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688481
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488025,
     "wof:geomhash":"a5ae375653ee6f82d4223468c5603709",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688481
+        }
+    ],
     "wof:id":1108772921,
     "wof:lastmodified":1481488025,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688481,
     "wof:repo":"whosonfirst-data-constituency-us-pa",
     "wof:superseded_by":[],
     "wof:supersedes":[],

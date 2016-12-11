@@ -9,7 +9,7 @@
     "geom:bbox":"-75.54398,39.848782,-75.21146,40.05839",
     "geom:latitude":39.956115,
     "geom:longitude":-75.381867,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":217999596.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 26",
     "uscensus:sldust":"026",
     "uscensus:statefp":"42",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688481
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488032,
     "wof:geomhash":"c9e8624915b7f9dce6aff3c090ef9246",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688481
+        }
+    ],
     "wof:id":1108772951,
     "wof:lastmodified":1481488032,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688481,
     "wof:repo":"whosonfirst-data-constituency-us-pa",
     "wof:superseded_by":[],
     "wof:supersedes":[],

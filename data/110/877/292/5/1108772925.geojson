@@ -9,7 +9,7 @@
     "geom:bbox":"-76.11678,40.735414,-75.47419,41.355471",
     "geom:latitude":41.021933,
     "geom:longitude":-75.778043,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":1812519397.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 14",
     "uscensus:sldust":"014",
     "uscensus:statefp":"42",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688481
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488026,
     "wof:geomhash":"847f8cce1cfa148369df0bf3b4123460",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688481
+        }
+    ],
     "wof:id":1108772925,
     "wof:lastmodified":1481488026,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688481,
     "wof:repo":"whosonfirst-data-constituency-us-pa",
     "wof:superseded_by":[],
     "wof:supersedes":[],

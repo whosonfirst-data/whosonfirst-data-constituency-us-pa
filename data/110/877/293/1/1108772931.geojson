@@ -9,7 +9,7 @@
     "geom:bbox":"-75.46305,39.952228,-75.20629,40.193337",
     "geom:latitude":40.071133,
     "geom:longitude":-75.321226,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":251690251.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 17",
     "uscensus:sldust":"017",
     "uscensus:statefp":"42",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688481
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488028,
     "wof:geomhash":"930c166d5179b4ebc4178ad8449d2aab",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688481
+        }
+    ],
     "wof:id":1108772931,
     "wof:lastmodified":1481488028,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688481,
     "wof:repo":"whosonfirst-data-constituency-us-pa",
     "wof:superseded_by":[],
     "wof:supersedes":[],

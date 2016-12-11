@@ -9,7 +9,7 @@
     "geom:bbox":"-80.09551,40.388352,-80.00192,40.475848",
     "geom:latitude":40.433885,
     "geom:longitude":-80.051345,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":39116654.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 27",
     "uscensus:sldlst":"027",
     "uscensus:statefp":"42",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688481
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487967,
     "wof:geomhash":"bc9b1d88c552b7cb7ab0184e0e44cc12",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688481
+        }
+    ],
     "wof:id":1108772497,
     "wof:lastmodified":1481487967,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688481,
     "wof:repo":"whosonfirst-data-constituency-us-pa",
     "wof:superseded_by":[],
     "wof:supersedes":[],

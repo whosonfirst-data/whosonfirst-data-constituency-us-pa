@@ -9,7 +9,7 @@
     "geom:bbox":"-77.35663,40.60347,-75.90568,41.37736",
     "geom:latitude":40.941899,
     "geom:longitude":-76.617354,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":4161108846.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 27",
     "uscensus:sldust":"027",
     "uscensus:statefp":"42",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688481
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488032,
     "wof:geomhash":"9ec6fbc9ce94c9289a7e750d9926f6a3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688481
+        }
+    ],
     "wof:id":1108772953,
     "wof:lastmodified":1481488032,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688481,
     "wof:repo":"whosonfirst-data-constituency-us-pa",
     "wof:superseded_by":[],
     "wof:supersedes":[],

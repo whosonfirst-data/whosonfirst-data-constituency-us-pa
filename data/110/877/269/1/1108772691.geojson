@@ -9,7 +9,7 @@
     "geom:bbox":"-75.74544,41.33894,-75.60444,41.53151",
     "geom:latitude":41.431428,
     "geom:longitude":-75.674609,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":81707824.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 113",
     "uscensus:sldlst":"113",
     "uscensus:statefp":"42",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688481
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487993,
     "wof:geomhash":"beb9f2cfde26aeba64331786b5f6d3c6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688481
+        }
+    ],
     "wof:id":1108772691,
     "wof:lastmodified":1481487993,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688481,
     "wof:repo":"whosonfirst-data-constituency-us-pa",
     "wof:superseded_by":[],
     "wof:supersedes":[],

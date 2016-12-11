@@ -9,7 +9,7 @@
     "geom:bbox":"-75.30241,40.261223,-75.04122,40.60858",
     "geom:latitude":40.447069,
     "geom:longitude":-75.160502,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":434885975.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 143",
     "uscensus:sldlst":"143",
     "uscensus:statefp":"42",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688481
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488001,
     "wof:geomhash":"bf1469ea5bf256176b20d99f45afb467",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688481
+        }
+    ],
     "wof:id":1108772759,
     "wof:lastmodified":1481488001,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688481,
     "wof:repo":"whosonfirst-data-constituency-us-pa",
     "wof:superseded_by":[],
     "wof:supersedes":[],

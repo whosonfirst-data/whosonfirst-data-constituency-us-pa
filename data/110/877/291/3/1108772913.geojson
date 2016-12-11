@@ -9,7 +9,7 @@
     "geom:bbox":"-75.78764,39.790365,-75.31853,40.029406",
     "geom:latitude":39.896858,
     "geom:longitude":-75.555929,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":507697636.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 9",
     "uscensus:sldust":"009",
     "uscensus:statefp":"42",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688481
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488024,
     "wof:geomhash":"98774745ee07d235102b56ec104bc1d2",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688481
+        }
+    ],
     "wof:id":1108772913,
     "wof:lastmodified":1481488024,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688481,
     "wof:repo":"whosonfirst-data-constituency-us-pa",
     "wof:superseded_by":[],
     "wof:supersedes":[],

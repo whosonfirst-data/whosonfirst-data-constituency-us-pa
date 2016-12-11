@@ -9,7 +9,7 @@
     "geom:bbox":"-75.46796,39.85123,-75.30217,39.93025",
     "geom:latitude":39.884892,
     "geom:longitude":-75.386899,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":44940441.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 161",
     "uscensus:sldlst":"161",
     "uscensus:statefp":"42",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688481
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488005,
     "wof:geomhash":"1a106e3634cafab051e72c97ddd677d3",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688481
+        }
+    ],
     "wof:id":1108772799,
     "wof:lastmodified":1481488005,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688481,
     "wof:repo":"whosonfirst-data-constituency-us-pa",
     "wof:superseded_by":[],
     "wof:supersedes":[],

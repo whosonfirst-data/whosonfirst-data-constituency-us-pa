@@ -9,7 +9,7 @@
     "geom:bbox":"-80.5195,39.72067,-79.78824,40.063936",
     "geom:latitude":39.869255,
     "geom:longitude":-80.186961,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":1684851313.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 50",
     "uscensus:sldlst":"050",
     "uscensus:statefp":"42",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688481
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487974,
     "wof:geomhash":"42ceecb3500d927f15d6beca93ca1dde",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688481
+        }
+    ],
     "wof:id":1108772549,
     "wof:lastmodified":1481487974,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688481,
     "wof:repo":"whosonfirst-data-constituency-us-pa",
     "wof:superseded_by":[],
     "wof:supersedes":[],

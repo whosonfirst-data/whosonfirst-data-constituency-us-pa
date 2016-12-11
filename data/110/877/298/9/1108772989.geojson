@@ -9,7 +9,7 @@
     "geom:bbox":"-80.00407,40.36157,-79.77679,40.53263",
     "geom:latitude":40.44294,
     "geom:longitude":-79.87938,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":152452804.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State Senate District 43",
     "uscensus:sldust":"043",
     "uscensus:statefp":"42",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688481
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481488038,
     "wof:geomhash":"d132ca0b4bf17a75f946bfcdc627873b",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688481
+        }
+    ],
     "wof:id":1108772989,
     "wof:lastmodified":1481488038,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688481,
     "wof:repo":"whosonfirst-data-constituency-us-pa",
     "wof:superseded_by":[],
     "wof:supersedes":[],

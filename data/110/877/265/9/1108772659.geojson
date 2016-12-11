@@ -9,7 +9,7 @@
     "geom:bbox":"-76.26081,39.973386,-75.87337,40.211504",
     "geom:latitude":40.106539,
     "geom:longitude":-76.041482,
-    "iso:country":"",
+    "iso:country":"us",
     "mz:hierarchy_label":1,
     "src:geom":"unknown",
     "uscensus:aland":348357089.0,
@@ -24,15 +24,26 @@
     "uscensus:namelsad":"State House District 99",
     "uscensus:sldlst":"099",
     "uscensus:statefp":"42",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        102191575,
+        85633793,
+        85688481
+    ],
     "wof:breaches":[],
-    "wof:country":"",
+    "wof:constituency":"region",
+    "wof:country":"us",
     "wof:created":1481487989,
     "wof:geomhash":"d157854569f212096f2d33c099009d3f",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "region_id":85688481
+        }
+    ],
     "wof:id":1108772659,
     "wof:lastmodified":1481487989,
-    "wof:parent_id":-1,
+    "wof:parent_id":85688481,
     "wof:repo":"whosonfirst-data-constituency-us-pa",
     "wof:superseded_by":[],
     "wof:supersedes":[],
